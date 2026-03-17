@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|solutionrelative:attendencetracker.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.domain\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|solutionrelative:attendencetracker.domain\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.domain\\entity\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|solutionrelative:attendencetracker.domain\\entity\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF45ADC2-4970-DF60-A042-3F159C27F346}|AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.infrastructure\\dbcontext\\attendancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF45ADC2-4970-DF60-A042-3F159C27F346}|AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj|solutionrelative:attendencetracker.infrastructure\\dbcontext\\attendancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.domain\\entity\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|solutionrelative:attendencetracker.domain\\entity\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C40745-BC33-EE63-01C4-A3AAD2742C03}|AttendenceTrackerAPI\\AttendanceTrackerAPI.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C40745-BC33-EE63-01C4-A3AAD2742C03}|AttendenceTrackerAPI\\AttendanceTrackerAPI.csproj|solutionrelative:attendencetrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C40745-BC33-EE63-01C4-A3AAD2742C03}|AttendenceTrackerAPI\\AttendanceTrackerAPI.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18C40745-BC33-EE63-01C4-A3AAD2742C03}|AttendenceTrackerAPI\\AttendanceTrackerAPI.csproj|solutionrelative:attendencetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF45ADC2-4970-DF60-A042-3F159C27F346}|AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.infrastructure\\attendancetracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF45ADC2-4970-DF60-A042-3F159C27F346}|AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj|solutionrelative:attendencetracker.infrastructure\\attendancetracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.domain\\attendancetracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3A11E59-6513-8ACD-E304-78BC95BF586E}|AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj|solutionrelative:attendencetracker.domain\\attendancetracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200D5EFF-C137-B50A-B6D5-EB6B51DE21F9}|AttendenceTracker.Application\\AttendanceTracker.Application.csproj|d:\\frondend\\webapi\\attendencetrackerapi\\attendencetracker.application\\attendancetracker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{200D5EFF-C137-B50A-B6D5-EB6B51DE21F9}|AttendenceTracker.Application\\AttendanceTracker.Application.csproj|solutionrelative:attendencetracker.application\\attendancetracker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AttendenceTrackerAPI\\appsettings.json",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\appsettings.json",
+              "RelativeToolTip": "AttendenceTrackerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T10:25:12.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AttendenceTrackerAPI\\Program.cs",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\Program.cs",
+              "RelativeToolTip": "AttendenceTrackerAPI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:13:48.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceDbContext.cs",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\Dbcontext\\AttendanceDbContext.cs",
+              "RelativeDocumentMoniker": "AttendenceTracker.Infrastructure\\Dbcontext\\AttendanceDbContext.cs",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\Dbcontext\\AttendanceDbContext.cs",
+              "RelativeToolTip": "AttendenceTracker.Infrastructure\\Dbcontext\\AttendanceDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:31:53.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\Attendance.cs",
+              "RelativeDocumentMoniker": "AttendenceTracker.Domain\\Entity\\Attendance.cs",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\Attendance.cs",
+              "RelativeToolTip": "AttendenceTracker.Domain\\Entity\\Attendance.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:26:36.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\Role.cs",
+              "RelativeDocumentMoniker": "AttendenceTracker.Domain\\Entity\\Role.cs",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\Role.cs",
+              "RelativeToolTip": "AttendenceTracker.Domain\\Entity\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:26:23.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\UserDetails.cs",
+              "RelativeDocumentMoniker": "AttendenceTracker.Domain\\Entity\\UserDetails.cs",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\UserDetails.cs",
+              "RelativeToolTip": "AttendenceTracker.Domain\\Entity\\UserDetails.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:26:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "AttendenceTracker.Domain\\Entity\\User.cs",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "AttendenceTracker.Domain\\Entity\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:25:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceTracker.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj",
+              "RelativeToolTip": "AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:48:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendanceTracker.Application.csproj",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj",
+              "RelativeDocumentMoniker": "AttendenceTracker.Application\\AttendanceTracker.Application.csproj",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj",
+              "RelativeToolTip": "AttendenceTracker.Application\\AttendanceTracker.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:46:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceTracker.Domain.csproj",
+              "DocumentMoniker": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
+              "RelativeDocumentMoniker": "AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
+              "ToolTip": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
+              "RelativeToolTip": "AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:40:41.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

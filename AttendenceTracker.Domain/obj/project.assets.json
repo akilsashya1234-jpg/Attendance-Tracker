@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
-      "projectName": "AttendenceTracker.Domain",
-      "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+      "projectUniqueName": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
+      "projectName": "AttendanceTracker.Domain",
+      "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
       "packagesPath": "C:\\Users\\akils\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\obj\\",
+      "outputPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

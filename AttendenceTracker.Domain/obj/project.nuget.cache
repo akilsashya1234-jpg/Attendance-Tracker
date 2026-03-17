@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "onE+9m/9JrI=",
+  "dgSpecHash": "TTptVqCjojw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+  "projectFilePath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

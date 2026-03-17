@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="AttendenceTracker.Application/AttendenceTracker.Application.csproj" />
-  <Project Path="AttendenceTracker.Domain/AttendenceTracker.Domain.csproj" />
-  <Project Path="AttendenceTracker.Infrastructure/AttendenceTracker.Infrastructure.csproj" />
-  <Project Path="AttendenceTrackerAPI/AttendenceTrackerAPI.csproj" />
-</Solution>

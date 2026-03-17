@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj": {}
+    "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj": {
+    "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj",
-        "projectName": "AttendenceTracker.Application",
-        "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj",
+        "projectUniqueName": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj",
+        "projectName": "AttendanceTracker.Application",
+        "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj",
         "packagesPath": "C:\\Users\\akils\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\obj\\",
+        "outputPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj"
+              "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj": {
+                "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj"
               },
-              "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj"
+              "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj": {
+                "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj"
               }
             }
           }
@@ -364,14 +364,14 @@
         }
       }
     },
-    "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj": {
+    "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
-        "projectName": "AttendenceTracker.Domain",
-        "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+        "projectUniqueName": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
+        "projectName": "AttendanceTracker.Domain",
+        "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj",
         "packagesPath": "C:\\Users\\akils\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\obj\\",
+        "outputPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -703,14 +703,14 @@
         }
       }
     },
-    "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj": {
+    "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj",
-        "projectName": "AttendenceTracker.Infrastructure",
-        "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj",
+        "projectName": "AttendanceTracker.Infrastructure",
+        "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\akils\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\obj\\",
+        "outputPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -731,8 +731,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj"
+              "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj": {
+                "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendanceTracker.Domain.csproj"
               }
             }
           }
@@ -1070,14 +1070,14 @@
         }
       }
     },
-    "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj": {
+    "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj",
+        "projectUniqueName": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj",
         "projectName": "AttendenceTrackerAPI",
-        "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj",
+        "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\AttendenceTrackerAPI.csproj",
         "packagesPath": "C:\\Users\\akils\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\obj\\",
+        "outputPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTrackerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1098,11 +1098,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj": {
-                "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj"
+              "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj": {
+                "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendanceTracker.Application.csproj"
               },
-              "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj"
+              "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj": {
+                "projectPath": "D:\\Frondend\\WebApi\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendanceTracker.Infrastructure.csproj"
               }
             }
           }
