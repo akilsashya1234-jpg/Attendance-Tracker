@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54D559D-BA53-404F-9D20-CFD15207DEEF}|AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj|c:\\users\\akils\\source\\repos\\attendencetrackerapi\\attendencetracker.infrastructure\\attendencetracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A54D559D-BA53-404F-9D20-CFD15207DEEF}|AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj|solutionrelative:attendencetracker.infrastructure\\attendencetracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02589C32-6407-41B4-BC8C-E8B0AC4B4116}|AttendenceTracker.Application\\AttendenceTracker.Application.csproj|c:\\users\\akils\\source\\repos\\attendencetrackerapi\\attendencetracker.application\\attendencetracker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02589C32-6407-41B4-BC8C-E8B0AC4B4116}|AttendenceTracker.Application\\AttendenceTracker.Application.csproj|solutionrelative:attendencetracker.application\\attendencetracker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3468002E-D127-4EEE-9162-86D7B818A9A0}|AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj|c:\\users\\akils\\source\\repos\\attendencetrackerapi\\attendencetracker.domain\\attendencetracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3468002E-D127-4EEE-9162-86D7B818A9A0}|AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj|solutionrelative:attendencetracker.domain\\attendencetracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendenceTracker.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj",
+              "RelativeToolTip": "AttendenceTracker.Infrastructure\\AttendenceTracker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:48:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendenceTracker.Application",
+              "DocumentMoniker": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj",
+              "RelativeDocumentMoniker": "AttendenceTracker.Application\\AttendenceTracker.Application.csproj",
+              "ToolTip": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Application\\AttendenceTracker.Application.csproj",
+              "RelativeToolTip": "AttendenceTracker.Application\\AttendenceTracker.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:46:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendenceTracker.Domain",
+              "DocumentMoniker": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+              "RelativeDocumentMoniker": "AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+              "ToolTip": "C:\\Users\\akils\\source\\repos\\AttendenceTrackerAPI\\AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+              "RelativeToolTip": "AttendenceTracker.Domain\\AttendenceTracker.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:40:41.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
