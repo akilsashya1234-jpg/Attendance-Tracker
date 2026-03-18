@@ -20,5 +20,6 @@ namespace AttendenceTracker.Domain.Entity
         public ICollection<Attendance> Attendances { get; set; }
         public ICollection<Attendance> RecordedBy { get; set; }
 
+        public ICollection<Attendance> RecordedAttendances { get; set; }
     }
 }

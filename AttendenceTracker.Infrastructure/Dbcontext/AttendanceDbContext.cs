@@ -22,6 +22,8 @@ namespace AttendanceTracker.Infrastructure.Dbcontext
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             // User → Role
             modelBuilder.Entity<User>()
                 .HasOne(u => u.Role)
@@ -34,17 +36,17 @@ namespace AttendanceTracker.Infrastructure.Dbcontext
                 .WithMany(u => u.UserDetails)
                 .HasForeignKey(d => d.UserID);
 
-            // Attendance → User (Student)
+            // ✅ Attendance → Student (FIX HERE)
             modelBuilder.Entity<Attendance>()
                 .HasOne(a => a.User)
                 .WithMany(u => u.Attendances)
-                .HasForeignKey(a => a.UserID)
+                .HasForeignKey(a => a.UserId) // ✅ CORRECT
                 .OnDelete(DeleteBehavior.Restrict);
 
-            // Attendance → User (RecordedBy)
+            // ✅ Attendance → RecordedBy (correct already)
             modelBuilder.Entity<Attendance>()
                 .HasOne(a => a.RecordedUser)
-                .WithMany()
+                .WithMany(u => u.RecordedBy)
                 .HasForeignKey(a => a.RecordedBy)
                 .OnDelete(DeleteBehavior.Restrict);
         }
