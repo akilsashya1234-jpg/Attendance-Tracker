@@ -16,3 +16,5 @@ D:\Frondend\WebApi\AttendenceTrackerAPI\AttendenceTracker.Application\obj\Debug\
 D:\Frondend\WebApi\AttendenceTrackerAPI\AttendenceTracker.Application\obj\Debug\net10.0\refint\AttendanceTracker.Application.dll
 D:\Frondend\WebApi\AttendenceTrackerAPI\AttendenceTracker.Application\obj\Debug\net10.0\AttendanceTracker.Application.pdb
 D:\Frondend\WebApi\AttendenceTrackerAPI\AttendenceTracker.Application\obj\Debug\net10.0\ref\AttendanceTracker.Application.dll
+D:\Frondend\WebApi\AttendenceTrackerAPI\AttendenceTracker.Application\bin\Debug\net10.0\AttendanceTracker.Application.runtimeconfig.json
+D:\Frondend\WebApi\AttendenceTrackerAPI\AttendenceTracker.Application\obj\Debug\net10.0\AttendanceTracker.Application.genruntimeconfig.cache
